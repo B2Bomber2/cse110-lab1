@@ -38,4 +38,4 @@ You can find that repository [here](https://github.com/B1Bomber/binaryKeyboard)!
 
 [Refer to the README file that came with this repository](./README.md)
 
-[Jump back to the top](#welcome-to-my-page!)
+[Jump back to the top](#welcome-to-my-page)
