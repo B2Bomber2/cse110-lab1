@@ -6,7 +6,8 @@ I like this quote:
 > "Move fast and break stuff." 
 -- Professor Powell
 
-My favorite line of cold that I wrote on a personal project is `serialcomm = serial.Serial(port.device, 9600, timeout=None, rtscts=True)`
+<br>
+My favorite line of code that I wrote on a personal project is `serialcomm = serial.Serial(port.device, 9600, timeout=None, rtscts=True)`
 You can find that repository [here](https://github.com/B1Bomber/binaryKeyboard)! It is on a personal Github account. 
 
 ## Here are some other stuff
@@ -35,4 +36,4 @@ You can find that repository [here](https://github.com/B1Bomber/binaryKeyboard)!
 
 [Refer to the README file that came with this repository](./README.md)
 
-[Jump back to the top](#h1-header)
+[Jump back to the top](#welcome-to-my-page!)
