@@ -34,7 +34,7 @@ You can find that repository [here](https://github.com/B1Bomber/binaryKeyboard)!
 **Still here? Are you bored? Here are some breaking news for you to occupy your time with:**
 ![A fox](foxxo.webp)
 
-[Here is the link to the Github page](https://b2bomber2.github.io/cse110-lab1/)
+
 
 [Refer to the README file that came with this repository](./README.md)
 
